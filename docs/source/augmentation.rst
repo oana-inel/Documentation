@@ -90,7 +90,7 @@ Text Complexity or Readability
 
 The readability feature assesses the complexity of a text. 
 The complexity score is computed using the Python library `textstat <https://pypi.org/project/textstat/>`_ which implements the Flesch-Kincaid score. 
-The library supports multiple languages including English (US, UK), Afrikaans, Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, Estonian, French, Galician, German (Germany, Swiss, Austrian), Greek, Hungarian, Italian, Latvian, Lithuanian, Norwegian Bokmål, Norwegian Nynorsk, Polish, Portuguese (Portugal, Brazil), Romanian, Russian, Serbian (official, Latin), Slovak, Slovenian, Spanish, Swedish, Telugu, Ukrainian, and Zulu.
+The library supports multiple languages including English (US and UK), Afrikaans, Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, Estonian, French, Galician, German (Germany, Swiss, Austrian), Greek, Hungarian, Italian, Latvian, Lithuanian, Norwegian Bokmål, Norwegian Nynorsk, Polish, Portuguese (Portugal, Brazil), Romanian, Russian, Serbian (official, Latin), Slovak, Slovenian, Spanish, Swedish, Telugu, Ukrainian, and Zulu.
 The parameters of the Flesch-Kincaid formula differ across languages and are adjusted based on linguistic research.
 A lower score indicates a more complex text, while a higher score suggests greater readability.
 
